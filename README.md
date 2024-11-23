@@ -9,8 +9,8 @@ This repository contains a Power BI dashboard project analyzing the Amazon Prime
 - **`amazon_prime_dataset.csv`**: The dataset used for this analysis.
 - **Images**: Contains screenshots of the dashboard for quick preview.
 
-https://github.com/KISHOR-17168/Amazon-Prime-Video-Dashboard/blob/main/Screenshot%202024-11-23%20134041.png?raw=true
-![Dashboard Screenshot](.https://github.com/KISHOR-17168/Amazon-Prime-Video-Dashboard/blob/main/Screenshot%202024-11-23%20134041.png?raw=true)
+
+![image alt](https://github.com/KISHOR-17168/Amazon-Prime-Video-Dashboard/blob/main/Screenshot%202024-11-23%20134041.png?raw=true)
 
 
 ## Tools Used:
