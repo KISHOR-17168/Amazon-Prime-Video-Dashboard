@@ -7,6 +7,7 @@ This repository contains a Power BI dashboard project analyzing the Amazon Prime
 
 ## Repository Contents:
 - **`amazon_prime_dataset.csv`**: The dataset used for this analysis.
+- **`amazon_prime_dashboard.pbix`**: The Power BI file for the dashboard.
 - **Images**: Contains screenshots of the dashboard for quick preview.
 
 
